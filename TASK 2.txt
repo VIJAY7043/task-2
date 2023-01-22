@@ -1,0 +1,14 @@
+               
+ 1.          DOCUMENT OBJECT:
+
+                     * The document object represent a web page that is loaded in the browser.
+                     * we can add dynamic content to our web page. 
+                     * The document object can be accessed with a window.document or just document.
+
+           WINDOW OBJECT: 
+
+                      * Window object represent a windows in object
+                      * A windows in object automatically created by browser
+                      * windows is the object of browser , it is not the object of the javascript
+---------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------
